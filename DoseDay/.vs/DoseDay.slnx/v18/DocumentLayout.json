@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\DoseDay-API\\DoseDay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E50670A6-F23E-42E0-BB0C-A13CE348998C}|DoseDay.csproj|c:\\users\\hp\\documents\\github\\doseday-api\\doseday\\data\\dosedaydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50670A6-F23E-42E0-BB0C-A13CE348998C}|DoseDay.csproj|solutionrelative:data\\dosedaydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50670A6-F23E-42E0-BB0C-A13CE348998C}|DoseDay.csproj|c:\\users\\hp\\documents\\github\\doseday-api\\doseday\\models\\inventorymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50670A6-F23E-42E0-BB0C-A13CE348998C}|DoseDay.csproj|solutionrelative:models\\inventorymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50670A6-F23E-42E0-BB0C-A13CE348998C}|DoseDay.csproj|c:\\users\\hp\\documents\\github\\doseday-api\\doseday\\models\\trackeditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50670A6-F23E-42E0-BB0C-A13CE348998C}|DoseDay.csproj|solutionrelative:models\\trackeditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50670A6-F23E-42E0-BB0C-A13CE348998C}|DoseDay.csproj|c:\\users\\hp\\documents\\github\\doseday-api\\doseday\\models\\usageschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50670A6-F23E-42E0-BB0C-A13CE348998C}|DoseDay.csproj|solutionrelative:models\\usageschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50670A6-F23E-42E0-BB0C-A13CE348998C}|DoseDay.csproj|c:\\users\\hp\\documents\\github\\doseday-api\\doseday\\models\\consumptionoccurrence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50670A6-F23E-42E0-BB0C-A13CE348998C}|DoseDay.csproj|solutionrelative:models\\consumptionoccurrence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50670A6-F23E-42E0-BB0C-A13CE348998C}|DoseDay.csproj|c:\\users\\hp\\documents\\github\\doseday-api\\doseday\\models\\usagescheduleday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50670A6-F23E-42E0-BB0C-A13CE348998C}|DoseDay.csproj|solutionrelative:models\\usagescheduleday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E50670A6-F23E-42E0-BB0C-A13CE348998C}|DoseDay.csproj|c:\\users\\hp\\documents\\github\\doseday-api\\doseday\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E50670A6-F23E-42E0-BB0C-A13CE348998C}|DoseDay.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 328,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoseDayDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\DoseDay-API\\DoseDay\\Data\\DoseDayDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DoseDayDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\DoseDay-API\\DoseDay\\Data\\DoseDayDbContext.cs",
+              "RelativeToolTip": "Data\\DoseDayDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T18:28:20.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryMovement.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\DoseDay-API\\DoseDay\\Models\\InventoryMovement.cs",
+              "RelativeDocumentMoniker": "Models\\InventoryMovement.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\DoseDay-API\\DoseDay\\Models\\InventoryMovement.cs",
+              "RelativeToolTip": "Models\\InventoryMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T18:21:08.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsumptionOccurrence.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\DoseDay-API\\DoseDay\\Models\\ConsumptionOccurrence.cs",
+              "RelativeDocumentMoniker": "Models\\ConsumptionOccurrence.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\DoseDay-API\\DoseDay\\Models\\ConsumptionOccurrence.cs",
+              "RelativeToolTip": "Models\\ConsumptionOccurrence.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T18:20:22.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsageScheduleDay.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\DoseDay-API\\DoseDay\\Models\\UsageScheduleDay.cs",
+              "RelativeDocumentMoniker": "Models\\UsageScheduleDay.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\DoseDay-API\\DoseDay\\Models\\UsageScheduleDay.cs",
+              "RelativeToolTip": "Models\\UsageScheduleDay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T17:57:07.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsageSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\DoseDay-API\\DoseDay\\Models\\UsageSchedule.cs",
+              "RelativeDocumentMoniker": "Models\\UsageSchedule.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\DoseDay-API\\DoseDay\\Models\\UsageSchedule.cs",
+              "RelativeToolTip": "Models\\UsageSchedule.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA4wBUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T17:50:08.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrackedItem.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\DoseDay-API\\DoseDay\\Models\\TrackedItem.cs",
+              "RelativeDocumentMoniker": "Models\\TrackedItem.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\DoseDay-API\\DoseDay\\Models\\TrackedItem.cs",
+              "RelativeToolTip": "Models\\TrackedItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T17:45:56.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\DoseDay-API\\DoseDay\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\DoseDay-API\\DoseDay\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T17:43:24.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
